@@ -16,7 +16,7 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
 - 📎: [CV](https://github.com/RobbSoares/RobbSoares/blob/master/curriculo/CV_RobsonSantanaSoares.pdf)
 
 
-### Tecnologias que estudo e desenvolvo
+#### Tecnologias que estudo e desenvolvo
 
 <br />
 
@@ -25,13 +25,13 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
  
 <br />
 
-### Wakatime Stats
+#### Wakatime Stats
 
 <br/>
 
 ![Robb's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=uRobs&theme=tokyonight)
 
-### Github Stats
+#### Github Stats
 
 <br />
 
