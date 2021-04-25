@@ -25,13 +25,9 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
  
 #### Wakatime Stats
 
-<br/>
-
 ![Robb's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=uRobs&theme=tokyonight)
 
 #### Github Stats
-
-<br />
 
 ![Robb's github stats](https://github-readme-stats.vercel.app/api?username=RobbSoares&count_private=true&theme=tokyonight&hide=contribs,prs)
 
