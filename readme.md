@@ -4,7 +4,7 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-rob-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-santana-soares/) [![Mail Badge](https://img.shields.io/badge/-rob_email-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white)](mailto:robson.santana.soares@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-rob-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-santana-soares/) [![Mail Badge](https://img.shields.io/badge/Gmail-Rob-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white)](mailto:robson.santana.soares@gmail.com)
 
 <!-- TODO: Add last video link -->
 
