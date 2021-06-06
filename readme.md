@@ -19,10 +19,10 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
 
 #### Tecnologias que estudo e desenvolvo
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&&labelColor=black&logo=sass&logoColor=CC6699)](#) [![MySQL](https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white)](#) [![GIT](https://img.shields.io/badge/git-ff0000.svg?&labelColor=black&style=for-the-badge&logo=git&logoColor=white")](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&&labelColor=black&logo=sass&logoColor=CC6699)](#) [![GIT](https://img.shields.io/badge/git-ff0000.svg?&labelColor=black&style=for-the-badge&logo=git&logoColor=white")](#)
  
 #### Github Stats
 
-![Robb's github stats](https://github-readme-stats.vercel.app/api?username=RobbSoares&theme=tokyonight&show_icons=true&count_private=true)
+![Robb's github stats](https://github-readme-stats.vercel.app/api?username=RobbSoares&theme=vue&show_icons=true&count_private=true)
 
-![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbSoares&theme=tokyonight&layout=compact)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbSoares&theme=vue&layout=compact)
