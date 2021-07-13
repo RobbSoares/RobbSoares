@@ -12,11 +12,6 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
 - 📫 Me envie um email: robson.santana.soares@gmail.com.
 - 📖 Estou aprendendo ReactJS, JavaScript e TypeScript.
 
-#### Aqui está meu currículo
-
-- 📎: [CV](https://github.com/RobbSoares/RobbSoares/blob/master/curriculo/CV_RobsonSantanaSoares.pdf)
-
-
 #### Tecnologias que estudo e desenvolvo
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&&labelColor=black&logo=sass&logoColor=CC6699)](#) [![GIT](https://img.shields.io/badge/git-ff0000.svg?&labelColor=black&style=for-the-badge&logo=git&logoColor=white")](#)
