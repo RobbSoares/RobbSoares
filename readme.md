@@ -8,7 +8,6 @@ Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas e d
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Estou à procura de emprego, contrate-me :)
 - 📫 Me envie um email: robson.santana.soares@gmail.com.
 - 📖 Estou aprendendo ReactJS, JavaScript e TypeScript.
 
